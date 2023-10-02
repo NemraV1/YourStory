@@ -1,2 +1,2 @@
 # YourStory
-Story Game generated with AI
+Story Game generated with AI with choices and consequences
